@@ -1,0 +1,23 @@
+{
+  "name": "koa-static-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhouChilly/koa-static-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhouChilly/koa-static-server/issues"
+  },
+  "homepage": "https://github.com/ZhouChilly/koa-static-server#readme",
+  "dependencies": {
+    "iconv-lite": "^0.4.23",
+    "koa": "^2.5.2"
+  }
+}
