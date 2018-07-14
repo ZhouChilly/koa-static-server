@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/ZhouChilly/koa-static-server#readme",
   "dependencies": {
-    "iconv-lite": "^0.4.23",
     "koa": "^2.5.2"
   }
 }
