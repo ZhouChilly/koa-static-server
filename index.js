@@ -35,7 +35,7 @@ app.listen(3000, () => {
 });
 
 
-// Use koa-static
+ /* Use koa-static */
 
 // const Koa = require('koa');
 // const path = require('path');
@@ -50,9 +50,9 @@ app.listen(3000, () => {
 // ));
 
 // app.use( async ( ctx ) => {
-//   ctx.body = 'hi';
+//   ctx.body = '404 Not Found! o(╯□╰)o！';
 // });
 
 // app.listen(3000, () => {
-//   console.log('[demo] static-use-middleware is starting at port 3000')
+//   console.log('static-use-middleware is starting at port 3000')
 // });
