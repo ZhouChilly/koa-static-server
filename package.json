@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ZhouChilly/koa-static-server#readme",
   "dependencies": {
-    "koa": "^2.5.2"
+    "koa": "^2.5.2",
+    "koa-static": "^5.0.0"
   }
 }
